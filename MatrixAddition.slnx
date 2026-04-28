@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MatrixAddition.vcxproj" Id="c8da544d-c4a2-401b-b247-b292f52c7195" />
+</Solution>
